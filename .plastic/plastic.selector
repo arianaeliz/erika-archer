@@ -1,0 +1,4 @@
+repository "Egypt_Animation_Unit@org1234567890@cloud"
+  path "/"
+    br "/main"
+    co "/main"
